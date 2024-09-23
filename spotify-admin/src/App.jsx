@@ -9,7 +9,7 @@ import Sidebar from "./Components/Sidebar";
 import Navbar from "./Components/Navbar";
 import ListSong from "./pages/ListSong";
 
-export const url='http://localhost:4000'
+export const url='https://spotify-clone-backend-3ujj.onrender.com'
 
 const App = () => {
   return (
