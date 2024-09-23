@@ -6,7 +6,7 @@ export const PlayerContext = createContext();
 
 const PlayerContextProvider = (props) => {
 
-  const url='http://localhost:4000';
+  const url='https://spotify-clone-backend-3ujj.onrender.com';
  const[songsData,setSongData]=useState([]);
  const[albumsData,setAlbumData]=useState([]);
 
