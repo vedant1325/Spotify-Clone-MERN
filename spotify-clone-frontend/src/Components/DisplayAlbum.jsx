@@ -39,7 +39,7 @@ const DisplayAlbum = ({album}) => {
             <div className="flex justify-start items-center space-x-2 m-5">
               <img className="w-5 cursor-pointer" src={assets.thumb} alt="Thumbnail" />
               <span>1,323,341 ,</span>
-              <b>&bull;&nbsp;{songsData.filter(song => song.album === albumData.name).length} songs,</b> 
+              <b className="hidden sm:block">&bull;&nbsp;{songsData.filter(song => song.album === albumData.name).length} songs,</b> 
               <span>&bull;&nbsp;about 2hrs 30min</span>
             </div>
           </p>
