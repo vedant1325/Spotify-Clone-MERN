@@ -13,7 +13,7 @@ const Podcast = () => {
       <Navbar />
       <div className='mb-4'>
         <h1 className='my-5 font-bold text-2xl'>Hit Podcast</h1>
-        <div className='grid grid-cols-2  sm:grid-cols-4  md:grid-cols-5 lg:grid-cols-6 gap-4'>
+        <div className='grid grid-cols-2  sm:grid-cols-4  md:grid-cols-5 lg:grid-cols-6 gap-11'>
           {musicSongs.map((item, index) => (
             <SongItem 
               key={index} 
