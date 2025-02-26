@@ -4,7 +4,7 @@
 Users can **explore music & podcasts by categories**, while admins can **upload new tracks via the admin panel**.  
 
 🌐 **Live Demo:** [Spotify Clone](https://spotify-clone-frontend-cs98.onrender.com)  
-📂 **GitHub Repository:** [GitHub Repo](https://github.com/vedant1325/Spotify-Clone)  
+📂 **GitHub Repository:** [GitHub Repo](https://github.com/vedant1325/Spotify-Clone-MERN)  
 
 ---
 
