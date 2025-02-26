@@ -1,4 +1,4 @@
-# ![Spotify Clone](https://your-image-link.com/logo.png) Spotify Clone - MERN Stack  
+# 🎵 Spotify Clone - MERN Stack  
 
 🚀 **A modern music streaming platform** built with the **MERN (MongoDB, Express.js, React.js, Node.js) stack**.  
 Users can **explore music & podcasts by categories**, while admins can **upload new tracks via the admin panel**.  
